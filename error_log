@@ -1,0 +1,528 @@
+[25-Oct-2024 18:29:00 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:29:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:69
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(69): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 69
+[25-Oct-2024 18:29:49 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:69
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(69): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 69
+[25-Oct-2024 18:30:49 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:69
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(69): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 69
+[25-Oct-2024 18:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:70
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(70): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 70
+[25-Oct-2024 18:32:03 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:70
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(70): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 70
+[25-Oct-2024 18:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:70
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(70): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 70
+[25-Oct-2024 18:32:14 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User_id' in 'field list' in /home/evef9533/public_html/LAB/registration.php:70
+Stack trace:
+#0 /home/evef9533/public_html/LAB/registration.php(70): PDO->query('SELECT MAX(User...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/registration.php on line 70
+[25-Oct-2024 18:32:24 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:10 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:21 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:23 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:3
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(3): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 3
+[25-Oct-2024 18:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:07 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:07 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:07 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:30 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:34:47 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'evef9533_admin123;'@'localhost' (using password: YES) in /home/evef9533/public_html/LAB/dashboard.php:4
+Stack trace:
+#0 /home/evef9533/public_html/LAB/dashboard.php(4): mysqli->__construct('localhost', 'evef9533_admin1...', Object(SensitiveParameterValue), 'evef9533_TodoLi...')
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/dashboard.php on line 4
+[25-Oct-2024 18:36:13 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:13 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:13 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:36:13 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:13 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:13 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:36:14 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:14 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:14 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:36:14 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:14 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:14 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:36:16 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:16 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:36:33 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:36:33 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:36:33 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/dashboard.php on line 325
+[25-Oct-2024 18:38:07 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:07 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:07 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:07 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:11 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:11 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:11 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 18:38:11 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 18:38:11 Asia/Jakarta] Creating new list with title: 123
+[25-Oct-2024 18:38:11 Asia/Jakarta] New list created in database with title: 123
+[25-Oct-2024 18:38:12 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:12 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:22 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:22 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:22 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 18:38:22 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 18:38:22 Asia/Jakarta] Adding task to list with ID: D0006
+[25-Oct-2024 18:38:22 Asia/Jakarta] New task added to database for list: D0006
+[25-Oct-2024 18:38:22 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:22 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:26 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:26 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:26 Asia/Jakarta] Action received in POST request: delete_task
+[25-Oct-2024 18:38:26 Asia/Jakarta] Deleting task with ID: A0001
+[25-Oct-2024 18:38:26 Asia/Jakarta] Task deleted from database with ID: A0001
+[25-Oct-2024 18:38:26 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:38:26 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:38:29 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/evef9533/public_html/LAB/profile.php on line 54
+[25-Oct-2024 18:38:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/evef9533/public_html/LAB/profile.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 54
+[25-Oct-2024 18:39:16 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/evef9533/public_html/LAB/profile.php on line 56
+[25-Oct-2024 18:39:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/evef9533/public_html/LAB/profile.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 56
+[25-Oct-2024 18:40:06 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:40:06 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:40:44 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:40:44 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:40:46 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:40:46 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:40:47 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:40:47 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:40:59 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:40:59 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:41:44 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:41:44 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:41:47 Asia/Jakarta] After successful database connection
+[25-Oct-2024 18:41:47 Asia/Jakarta] Session user_email: raden@watkins.com
+[25-Oct-2024 18:42:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/evef9533/public_html/LAB/profile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 14
+[25-Oct-2024 18:42:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/evef9533/public_html/LAB/profile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 14
+[25-Oct-2024 18:43:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/evef9533/public_html/LAB/profile.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 16
+[25-Oct-2024 18:44:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home/evef9533/public_html/LAB/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 18:44:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home/evef9533/public_html/LAB/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 18:44:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home/evef9533/public_html/LAB/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 18:44:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home/evef9533/public_html/LAB/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 18:44:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_result() in /home/evef9533/public_html/LAB/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 18:44:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/evef9533/public_html/LAB/profile.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 18
+[25-Oct-2024 18:44:23 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 20
+[25-Oct-2024 18:44:23 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 21
+[25-Oct-2024 18:44:56 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:45:13 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 29
+[25-Oct-2024 18:45:13 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 18:45:13 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 29
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 29
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 29
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 29
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Warning:  Undefined variable $user_id in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 18:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:74
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(74): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 74
+[25-Oct-2024 18:48:57 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(75): mysqli_stmt->fetch(2)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:49:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_results() in /home/evef9533/public_html/LAB/profile.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 75
+[25-Oct-2024 18:49:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/evef9533/public_html/LAB/profile.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 78
+[25-Oct-2024 18:50:32 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 77 does not match ')' in /home/evef9533/public_html/LAB/profile.php on line 78
+[25-Oct-2024 18:51:05 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 39
+[25-Oct-2024 18:51:23 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:38 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:39 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:39 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:39 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:40 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:41 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:51:41 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 41
+[25-Oct-2024 18:52:04 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 44
+[25-Oct-2024 18:52:04 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 44
+[25-Oct-2024 18:52:05 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 44
+[25-Oct-2024 18:52:05 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 44
+[25-Oct-2024 18:52:05 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 44
+[25-Oct-2024 18:52:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:52:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:52:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:52:13 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:52:13 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:52:27 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/evef9533/public_html/LAB/profile.php on line 45
+[25-Oct-2024 18:56:24 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:15
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(15): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 15
+[25-Oct-2024 18:56:40 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:18
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 18
+[25-Oct-2024 18:58:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:12
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 12
+[25-Oct-2024 18:58:44 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:15
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(15): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 15
+[25-Oct-2024 19:00:10 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/evef9533/public_html/LAB/profile.php on line 53
+[25-Oct-2024 19:00:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/evef9533/public_html/LAB/profile.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 53
+[25-Oct-2024 19:00:22 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/evef9533/public_html/LAB/profile.php on line 56
+[25-Oct-2024 19:00:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/evef9533/public_html/LAB/profile.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 56
+[25-Oct-2024 19:05:21 Asia/Jakarta] PHP Parse error:  Unmatched '}' in /home/evef9533/public_html/LAB/profile.php on line 51
+[25-Oct-2024 19:05:29 Asia/Jakarta] PHP Parse error:  Unmatched '}' in /home/evef9533/public_html/LAB/profile.php on line 51
+[25-Oct-2024 19:05:29 Asia/Jakarta] PHP Parse error:  Unmatched '}' in /home/evef9533/public_html/LAB/profile.php on line 51
+[25-Oct-2024 19:05:38 Asia/Jakarta] PHP Warning:  Undefined array key "name" in /home/evef9533/public_html/LAB/profile.php on line 15
+[25-Oct-2024 19:05:38 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/evef9533/public_html/LAB/profile.php on line 16
+[25-Oct-2024 19:05:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/evef9533/public_html/LAB/profile.php on line 17
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 71
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 71
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 130
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 130
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Warning:  Undefined variable $user_email in /home/evef9533/public_html/LAB/profile.php on line 131
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 131
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 141
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 141
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Warning:  Undefined variable $user_email in /home/evef9533/public_html/LAB/profile.php on line 145
+[25-Oct-2024 19:07:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 145
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 71
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 71
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 130
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 130
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $user_email in /home/evef9533/public_html/LAB/profile.php on line 131
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 131
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $user_name in /home/evef9533/public_html/LAB/profile.php on line 141
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 141
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Warning:  Undefined variable $user_email in /home/evef9533/public_html/LAB/profile.php on line 145
+[25-Oct-2024 19:08:16 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/evef9533/public_html/LAB/profile.php on line 145
+[25-Oct-2024 19:11:52 Asia/Jakarta] PHP Warning:  Undefined array key "inputName" in /home/evef9533/public_html/LAB/profile.php on line 14
+[25-Oct-2024 19:11:52 Asia/Jakarta] PHP Warning:  Undefined array key "inputEmail" in /home/evef9533/public_html/LAB/profile.php on line 15
+[25-Oct-2024 19:11:52 Asia/Jakarta] PHP Warning:  Undefined array key "inputPassword" in /home/evef9533/public_html/LAB/profile.php on line 16
+[25-Oct-2024 19:11:52 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:30
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(30): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 30
+[25-Oct-2024 19:12:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:28
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 28
+[25-Oct-2024 19:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:28
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 28
+[25-Oct-2024 19:15:08 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:28
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 28
+[25-Oct-2024 19:15:11 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/evef9533/public_html/LAB/profile.php:28
+Stack trace:
+#0 /home/evef9533/public_html/LAB/profile.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/evef9533/public_html/LAB/profile.php on line 28
+[25-Oct-2024 19:16:29 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:16:29 Asia/Jakarta] Deleting list with ID: D0006
+[25-Oct-2024 19:16:29 Asia/Jakarta] List and associated tasks deleted from database with ID: D0006
+[25-Oct-2024 19:16:38 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:38 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:38 Asia/Jakarta] Creating new list with title: Workinh
+[25-Oct-2024 19:16:38 Asia/Jakarta] New list created in database with title: Workinh
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:16:53 Asia/Jakarta] Creating new list with title: Groceries
+[25-Oct-2024 19:16:53 Asia/Jakarta] New list created in database with title: Groceries
+[25-Oct-2024 19:16:57 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:16:57 Asia/Jakarta] Deleting list with ID: D0008
+[25-Oct-2024 19:16:57 Asia/Jakarta] List and associated tasks deleted from database with ID: D0008
+[25-Oct-2024 19:17:06 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:17:06 Asia/Jakarta] Deleting list with ID: D0012
+[25-Oct-2024 19:17:06 Asia/Jakarta] List and associated tasks deleted from database with ID: D0012
+[25-Oct-2024 19:17:08 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:17:08 Asia/Jakarta] Deleting list with ID: D0011
+[25-Oct-2024 19:17:08 Asia/Jakarta] List and associated tasks deleted from database with ID: D0011
+[25-Oct-2024 19:17:12 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:17:12 Asia/Jakarta] Deleting list with ID: D0009
+[25-Oct-2024 19:17:12 Asia/Jakarta] List and associated tasks deleted from database with ID: D0009
+[25-Oct-2024 19:17:19 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:17:19 Asia/Jakarta] Deleting list with ID: D0010
+[25-Oct-2024 19:17:19 Asia/Jakarta] List and associated tasks deleted from database with ID: D0010
+[25-Oct-2024 19:17:27 Asia/Jakarta] Action received in POST request: delete_list
+[25-Oct-2024 19:17:27 Asia/Jakarta] Deleting list with ID: D0006
+[25-Oct-2024 19:17:27 Asia/Jakarta] List and associated tasks deleted from database with ID: D0006
+[25-Oct-2024 19:17:47 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:17:47 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:17:47 Asia/Jakarta] Creating new list with title: Work
+[25-Oct-2024 19:17:47 Asia/Jakarta] New list created in database with title: Work
+[25-Oct-2024 19:17:55 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:17:55 Asia/Jakarta] Action received in POST request: create_list
+[25-Oct-2024 19:17:55 Asia/Jakarta] Creating new list with title: Education
+[25-Oct-2024 19:17:55 Asia/Jakarta] New list created in database with title: Education
+[25-Oct-2024 19:18:23 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:23 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:23 Asia/Jakarta] Adding task to list with ID: D0007
+[25-Oct-2024 19:18:23 Asia/Jakarta] New task added to database for list: D0007
+[25-Oct-2024 19:18:42 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:42 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:42 Asia/Jakarta] Adding task to list with ID: D0007
+[25-Oct-2024 19:18:42 Asia/Jakarta] New task added to database for list: D0007
+[25-Oct-2024 19:18:44 Asia/Jakarta] Action received in POST request: complete_task
+[25-Oct-2024 19:18:44 Asia/Jakarta] Action received in POST request: complete_task
+[25-Oct-2024 19:18:44 Asia/Jakarta] Completing task with ID: A0002
+[25-Oct-2024 19:18:44 Asia/Jakarta] Task marked as complete in database with ID: A0002
+[25-Oct-2024 19:18:58 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:58 Asia/Jakarta] Action received in POST request: add_task
+[25-Oct-2024 19:18:58 Asia/Jakarta] Adding task to list with ID: D0008
+[25-Oct-2024 19:18:58 Asia/Jakarta] New task added to database for list: D0008
